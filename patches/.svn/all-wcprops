@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/psp/!svn/ver/2477/trunk/psptoolchain/patches
+END
+newlib-1.16.0-PSP.patch
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/psp/!svn/ver/2464/trunk/psptoolchain/patches/newlib-1.16.0-PSP.patch
+END
+gdb-6.8-PSP.patch
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/psp/!svn/ver/2420/trunk/psptoolchain/patches/gdb-6.8-PSP.patch
+END
+insight-6.4-PSP.patch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/psp/!svn/ver/2231/trunk/psptoolchain/patches/insight-6.4-PSP.patch
+END
+binutils-2.16.1-PSP.patch
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/psp/!svn/ver/2440/trunk/psptoolchain/patches/binutils-2.16.1-PSP.patch
+END
+gcc-4.3.2-PSP.patch
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/psp/!svn/ver/2473/trunk/psptoolchain/patches/gcc-4.3.2-PSP.patch
+END
+binutils-2.16.1-fix-ar.patch
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/psp/!svn/ver/2477/trunk/psptoolchain/patches/binutils-2.16.1-fix-ar.patch
+END

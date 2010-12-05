@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/psp/!svn/ver/2422/trunk/psptoolchain/depends
+END
+check-gcc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/psp/!svn/ver/2231/trunk/psptoolchain/depends/check-gcc.sh
+END
+check-flex.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/psp/!svn/ver/2231/trunk/psptoolchain/depends/check-flex.sh
+END
+check-subversion.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/psp/!svn/ver/2231/trunk/psptoolchain/depends/check-subversion.sh
+END
+check-patch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/psp/!svn/ver/2231/trunk/psptoolchain/depends/check-patch.sh
+END
+check-pspdev.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/psp/!svn/ver/2231/trunk/psptoolchain/depends/check-pspdev.sh
+END
+check-mpfr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/psp/!svn/ver/2422/trunk/psptoolchain/depends/check-mpfr.sh
+END
+check-wget.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/psp/!svn/ver/2231/trunk/psptoolchain/depends/check-wget.sh
+END
+check-automake.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/psp/!svn/ver/2231/trunk/psptoolchain/depends/check-automake.sh
+END
+check-bison.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/psp/!svn/ver/2255/trunk/psptoolchain/depends/check-bison.sh
+END
+check-texinfo.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/psp/!svn/ver/2231/trunk/psptoolchain/depends/check-texinfo.sh
+END
+check-make.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/psp/!svn/ver/2231/trunk/psptoolchain/depends/check-make.sh
+END
+check-autoconf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/psp/!svn/ver/2231/trunk/psptoolchain/depends/check-autoconf.sh
+END
+check-ncurses.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/psp/!svn/ver/2282/trunk/psptoolchain/depends/check-ncurses.sh
+END
+check-readline.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/psp/!svn/ver/2296/trunk/psptoolchain/depends/check-readline.sh
+END
+check-gmp.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/psp/!svn/ver/2422/trunk/psptoolchain/depends/check-gmp.sh
+END
